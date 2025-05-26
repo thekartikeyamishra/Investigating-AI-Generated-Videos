@@ -19,7 +19,7 @@ Upload your video file, and the tool will extract frames for analysis.
 Select individual frames and apply basic illustrative analysis techniques. **Note: These are NOT reliable deepfake detectors.**
 
 *(Image: `sf.PNG` provided by user)*
-![Frame Analysis UI](assets/frame_analysis_ui.PNG)
+![Frame Analysis UI](assets/sf.PNG)
 *Caption: Interface for selecting frames and choosing illustrative analysis types.*
 
 ## ❓ Why is Detecting AI-Generated Video So Hard?
