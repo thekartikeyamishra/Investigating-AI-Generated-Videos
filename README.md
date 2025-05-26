@@ -12,7 +12,7 @@ The Colab notebook provides an interactive UI to guide you through the process:
 Upload your video file, and the tool will extract frames for analysis.
 
 *(Image: `sa.PNG` provided by user)*
-![Video Upload and Frame Extraction UI](assets/video_upload_ui.PNG)
+![Video Upload and Frame Extraction UI](assets/sa.PNG)
 *Caption: UI for uploading a video and extracting sample frames.*
 
 **2. Individual Frame Analysis (Illustrative Techniques):**
