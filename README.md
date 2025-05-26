@@ -12,14 +12,14 @@ The Colab notebook provides an interactive UI to guide you through the process:
 Upload your video file, and the tool will extract frames for analysis.
 
 *(Image: `sa.PNG` provided by user)*
-![Video Upload and Frame Extraction UI](assets/video_upload_ui.png)
+![Video Upload and Frame Extraction UI](assets/video_upload_ui.PNG)
 *Caption: UI for uploading a video and extracting sample frames.*
 
 **2. Individual Frame Analysis (Illustrative Techniques):**
 Select individual frames and apply basic illustrative analysis techniques. **Note: These are NOT reliable deepfake detectors.**
 
 *(Image: `sf.PNG` provided by user)*
-![Frame Analysis UI](assets/frame_analysis_ui.png)
+![Frame Analysis UI](assets/frame_analysis_ui.PNG)
 *Caption: Interface for selecting frames and choosing illustrative analysis types.*
 
 ## ❓ Why is Detecting AI-Generated Video So Hard?
